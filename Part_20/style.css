@@ -1,0 +1,17 @@
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button {
+    background: red;
+    color: white;
+    font-size: 18px;
+    margin: 20px 50px;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+button:hover {
+background: #6ab04c;
+}
